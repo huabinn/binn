@@ -1,7 +1,11 @@
 ###专业技能
+
 HTML5 / CSS3
+
 熟悉掌握 HTML / CSS，能进行复杂的页面布局
+
 熟悉 CSS3 新特性，能完成常见的CSS动画效果
+
 能用 HTML / CSS 完成静态页面设计
 
 JavaScript / ES6
