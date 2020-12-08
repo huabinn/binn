@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+HTML5 / CSS3
+熟悉掌握 HTML / CSS，能进行复杂的页面布局
+熟悉 CSS3 新特性，能完成常见的CSS动画效果
+能用 HTML / CSS 完成静态页面设计
 
-You can use the [editor on GitHub](https://github.com/huabinn/binn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+JavaScript / ES6
+熟悉 ES6 新标准，能够在项目中运用
+熟悉掌握原生 JavaScript，能够使用原生 JavaScript 进行独立开发
+熟悉 JS性能优化 解决方案
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+jQuery / Node.js / Webpack / Git
+熟悉使用 jQuery 的选择器、过滤，以及对文档的增删查等
+熟悉引用使用 jQuery 的UI库等
+熟悉 Node.js 对文件的读写操作
+熟悉使用 Webpack 打包开发环境、生产环境项目
+熟悉使用 Git 进行版本控制管理，团队协作
 
-### Markdown
+Vue
+熟悉使用 Vue框架 开发
+熟悉 Vue 的生命周期、组件间通信
+熟悉使用 Vuex 状态管理模式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+AJAX
+熟悉 AJAX 的 GET 和 POST 请求的差异
+熟悉 AJAX 跨域 解决办法
+能使用 Promise对 AJAX 进行封装
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huabinn/binn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+C / 数据结构 / MySQL
+熟练使用 C语言 进行单片机开发
+了解数据解构 链表、二叉树、排序算法等
+熟悉 MySQL 的增、删、查、改等
