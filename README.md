@@ -26,7 +26,7 @@ Vue / React / jQuery
 
 Node.js / mongoDB / Webpack / Git
 
-可以使用 node.js + express 结合 mongoDB 编写后台服务
+ - 可以使用 node.js + express 结合 mongoDB 编写后台服务
  - 熟悉使用 Webpack 打包开发环境、生产环境项目
  - 熟悉使用 Git 进行版本控制管理，团队协作
 
